@@ -1,9 +1,5 @@
 # Recipe App
 
-![RecipeApp](https://i.ibb.co/5cRss23/recipe-app.png)
-
-Recipe app is a simple react application that utilizes spoonacular API based on [YouTube Tutorial](https://www.youtube.com/watch?v=xc4uOzlndAk) of developedbyed.
-
 ## What are the features of Recipe App
 
 When you launch the application, you will be taken to the homepage, where the recipes are grouped into their respective categories. If you select a recipe, you will be redirected to the recipe details page where you can view the ingredients and the step-by-step instructions for preparing the dish.
